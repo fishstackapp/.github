@@ -23,7 +23,6 @@
   <a href="https://nodejs.org"> <img src="https://img.shields.io/badge/Node.js-555?logo=node.js&style=for-the-badge" alt="nodejs" title="Node.js" /></a>
   <a href="https://www.apollographql.com/"> <img src="https://img.shields.io/badge/apollographql-555?logo=apollographql&style=for-the-badge" alt="apollographql" title="apollographql" /></a>
   <a href="https://render.com/"> <img src="https://img.shields.io/badge/render-555?logo=render&style=for-the-badge" alt="render" title="render" /></a>
-  
   <a href="https://www.twilio.com/"> <img src="https://img.shields.io/badge/twilio-555?logo=twilio&style=for-the-badge" alt="twilio" title="twilio" /></a>
   <a href="https://onesignal.com/"> <img src="https://img.shields.io/badge/onesignal-555?logo=onesignal&style=for-the-badge" alt="onesignal" title="onesignal" /></a>
   <a href="https://tanstack.com/"> <img src="https://img.shields.io/badge/tanstack-555?logo=tanstack&style=for-the-badge" alt="tanstack" title="tanstack" /></a>
